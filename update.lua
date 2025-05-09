@@ -1,0 +1,1 @@
+lib.versionCheck('GamingLuke1337/NPC-Control')
