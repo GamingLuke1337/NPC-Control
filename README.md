@@ -1,25 +1,30 @@
-# NPC_Control / ReducedNPCs
+# NPC-Control
 
-Simple FiveM Script for Reduced NPCs or Delete all NPCs and NPC AntiDrop Weapons
+A simple **FiveM** script to reduce or completely remove NPCs, and prevent NPCs from dropping weapons.
 
-Control totally NPCs density and Enable or Disable Dispatch
+Control all aspects of NPC density and enables/disables dispatch services.
 
-# Description
+---
 
-# Installation
+## 📘 Description
 
-Default density value is 0.3, you can change it by editing the variable 0.3 for by the number you want up to 1.0
+This script allows you to:
 
-- Add this in your `server.cfg`:
+- Control pedestrian and vehicle densities
+- Disable garbage trucks, random boats, and trains
+- Prevent random police spawns
+- Delete all nearby parked vehicles
+- Disable dispatch services
+- Prevent NPCs from dropping weapons
 
-```
-ensure npc_control
-```
+---
 
-# Legal
-### License
-This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+## 📦 Installation
 
-This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+1. Place the resource in your server's resource folder.
+2. Edit the density values in the config to your liking (default is '0.3').
+3. Add the following line to your `server.cfg`:
 
-You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/
+```cfg
+ensure NPC-Control
+````
