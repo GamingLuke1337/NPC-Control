@@ -1,5 +1,3 @@
--- NPC Reduced Control --
-
 local config = {
     PedMultiplier = 0.4,
     VehicleTrafficMultiplier = 0.4,
