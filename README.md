@@ -28,3 +28,7 @@ This script allows you to:
 ```cfg
 ensure NPC-Control
 ````
+
+## ⚖️ Legal
+
+This Resource has originally been made by [ItsManueh](https://github.com/ItsManueh). Due to the significant changes i made, i decided to detach this repository as a fork of [his script](https://github.com/ItsManueh/npc_control). If that presents an issue, please contact me on discord @gamingluke1337
